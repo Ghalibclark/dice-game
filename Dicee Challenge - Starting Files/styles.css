@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Mansalva&family=Merriweather+Sans&family=Sacramento&family=Titan+One&display=swap');
+
+body{
+  background-color: green;
+}
+
+.container{
+  margin: auto;
+  text-align: center;
+  width: 80%;
+}
+
+h1{
+  color: blue;
+  font-size:7rem;
+  font-family:'Titan one', sans-serif;
+  margin: 30px;
+
+}
+img{
+  width: 80%;
+}
+
+.dice{
+  display: inline-block;
+  text-align: center;
+}
+
+p{
+  font-family: "Abril Fatface";
+  font-size: 3rem;
+  color:blueviolet
+}
